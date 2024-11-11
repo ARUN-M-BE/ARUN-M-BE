@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm ARUN M</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=A-R-U-N-M&label=Profile%20views&color=0e75b6&style=flat" alt="A-R-U-N-M" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ARUN-M-BE&label=Profile%20views&color=0e75b6&style=flat" alt="ARUN-M-BE" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=A-R-U-N-M"&theme=onedark alt="A-R-U-N-M" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ARUN-M-BE"&theme=onedark alt="ARUN-M-BE" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/onlymeArun" target="blank"><img src="https://img.shields.io/twitter/follow/onlymeArun?logo=twitter&style=for-the-badge" alt="onlymeArun" /></a> </p>
 
 - 🔭 I’m currently completed B.E [Billing & Management With GST](uploadingg....)
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **arunm102301@gmail.com**
 
