@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arunm102301@gmail.com**
 
-- ⚡ Fun fact **Do update daily myself**
+- ⚡ **Do update daily myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
