@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARUN M</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Front-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ARUN-M-BE&label=Profile%20views&color=0e75b6&style=flat" alt="ARUN-M-BE" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arunm102301@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **Do update daily myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
