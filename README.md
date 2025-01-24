@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/onlymeArun" target="blank"><img src="https://img.shields.io/twitter/follow/onlymeArun?logo=twitter&style=for-the-badge" alt="onlymeArun" /></a> </p>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679242e4db593e4a174ef7bd?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679242e4db593e4a174ef7bd?variant=dark&roadmaps=git-github%2Cfrontend%2Creact" alt="roadmap.sh"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
