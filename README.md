@@ -34,3 +34,20 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arun_ai_/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel/)
 
+# Connect with Me 🌐
+
+<a href="https://www.linkedin.com/in/arun-m-a68979228/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" />
+</a>
+<a href="https://twitter.com/onlyme@arun/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="30" />
+</a>
+<a href="https://github.com/ARUN-M-BE/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" />
+</a>
+<a href="https://instagram.com/arun_ai_/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
+</a>
+<a href="https://www.youtube.com/channel/your-channel/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="30" />
+</a>
