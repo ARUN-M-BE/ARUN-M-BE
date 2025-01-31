@@ -9,6 +9,9 @@
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679242e4db593e4a174ef7bd?variant=dark" alt="roadmap.sh"/></a>
 
+<a href="https://hyperskill.org/profile/620065486?preview=true"><img src="https://hyperskill.org/profile/620065486?preview=true" alt="https://hyperskill.org/profile/620065486?preview=true"/></a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/a-r-u-n-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="a-r-u-n-m" height="30" width="40" /></a>
