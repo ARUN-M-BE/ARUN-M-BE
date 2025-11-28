@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/onlymeArun" target="blank"><img src="https://img.shields.io/twitter/follow/onlymeArun?logo=twitter&style=for-the-badge" alt="onlymeArun" /></a> </p>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679242e4db593e4a174ef7bd?variant=dark" alt="roadmap.sh"/></a>
-
-<a href="https://hyperskill.org/profile/620065486?preview=true"><img src="https://hyperskill.org/profile/620065486?preview=true" alt="https://hyperskill.org/profile/620065486?preview=true"/></a>
+<!-- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679242e4db593e4a174ef7bd?variant=dark" alt="roadmap.sh"/></a> -->
 
 
 <h3 align="left">Connect with me:</h3>
@@ -17,10 +15,10 @@
 <a href="https://codepen.io/a-r-u-n-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="a-r-u-n-m" height="30" width="40" /></a>
 <a href="https://dev.to/arunm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arunm" height="30" width="40" /></a>
 <a href="https://twitter.com/onlymeArun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onlymeArun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/a68979228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a68979228" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arun-be-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a68979228" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:21054550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21054550" height="30" width="40" /></a>
 <a href="https://fb.com/OnlymeARUN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="OnlymeARUN" height="30" width="40" /></a>
-<a href="https://instagram.com/my.soul_only" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="my.soul_only" height="30" width="40" /></a>
+<a href="https://instagram.com/arun_ai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="my.soul_only" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codeediter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codeediter" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/onlymearun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="onlymearun" height="30" width="40" /></a>
 </p>
