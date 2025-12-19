@@ -54,6 +54,8 @@ compatibility
 ## Demos
 
 - [@PROTOFOLIO](https://arun-m.pages.dev/)
+- [@API-INSPECTOR](https://api-inspector.pages.dev/)
+- [@API-PRO](https://api-pro.pages.dev/)
 - [@G-MUSIC](https://good-music.vercel.app/)
 - [@INNOVATECH](https://innova-tech.pages.dev/)
 - [@TMDB](https://tmdb-react.pages.dev/)
