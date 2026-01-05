@@ -58,6 +58,7 @@ compatibility
 - [@API-INSPECTOR](https://api-inspector.pages.dev/)
 - [@API-PRO](https://api-pro.pages.dev/)
 - [@DLB](https://e-z.pages.dev/)
+- [@AI-PROMPT](https://arun-m-be.github.io/AI-PROMPT/)
 - [@G-MUSIC](https://good-music.vercel.app/)
 - [@INNOVATECH](https://innova-tech.pages.dev/)
 - [@TMDB](https://tmdb-react.pages.dev/)
