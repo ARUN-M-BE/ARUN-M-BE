@@ -58,6 +58,8 @@ compatibility
 - [@API-INSPECTOR](https://api-inspector.pages.dev/)
 - [@API-PRO](https://api-pro.pages.dev/)
 - [@DLB](https://e-z.pages.dev/)
+- [@JOB-MODULE](https://ef107a46.job-apply.pages.dev/login)
+- [@N8N](https://n8n-xd79.onrender.com/)
 - [@AI-PROMPT](https://arun-m-be.github.io/AI-PROMPT/)
 - [@G-MUSIC](https://good-music.vercel.app/)
 - [@INNOVATECH](https://innova-tech.pages.dev/)
