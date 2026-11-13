@@ -3,14 +3,14 @@
 # Hi, I'm Arun M 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Front+End+Developer+%E2%80%A2+React.js+%2B+Next.js;Building+Scalable%2C+Accessible+Web+Interfaces;Crafting+Production-Ready+TypeScript+Apps#gh-dark-mode-only" alt="Arun M - Front End Developer" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=620&lines=Front+End+Developer+%E2%80%A2+React.js+%2B+Next.js;Building+Scalable%2C+Accessible+Web+Interfaces;Crafting+Production-Ready+TypeScript+Apps#gh-light-mode-only" alt="Arun M - Front End Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Front+End+Developer+%E2%80%A2+React.js+%2B+Next.js;Production-Ready+TypeScript+%2B+Modern+UI%2FUX;CI%2FCD+Pipelines%2C+Technical+SEO+%26+Cloud+Deployments#gh-dark-mode-only" alt="Arun M - Front End Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=620&lines=Front+End+Developer+%E2%80%A2+React.js+%2B+Next.js;Production-Ready+TypeScript+%2B+Modern+UI%2FUX;CI%2FCD+Pipelines%2C+Technical+SEO+%26+Cloud+Deployments#gh-light-mode-only" alt="Arun M - Front End Developer" />
 </p>
 
 <p align="center">
   <strong>Front End Developer with 3+ years of experience</strong>, currently engineering performant web applications at <strong>SYNKCODE (Dubai)</strong>.<br/>
   Specialized in <strong>React.js, Next.js (SSR/App Router), TypeScript</strong>, reusable design systems, and seamless REST API integrations.<br/>
-  Focused on web performance, scalable state architecture, and intuitive UI/UX.
+  Proficient in <strong>Technical SEO, Core Web Vitals optimization, CI/CD pipelines</strong>, and cloud deployments on <strong>Vercel, Cloudflare, and Render</strong>.
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arun--m.in-0284c7?style=flat-square&logo=googlechrome&logoColor=white)](http://arun-m.in/)
@@ -26,33 +26,38 @@
 
 ---
 
-### 🔭 Current Focus & Growth
+### 🔭 Current Focus & Engineering Strengths
 
 - 💼 **Current Role:** Delivering client-facing portals and dashboards at **SYNKCODE, Dubai**.
-- 🛠️ **Deepening:** Advanced Server Components in Next.js 14/15, micro-frontends, and automated UI testing (Jest / Playwright).
+- 🚀 **Cloud & CI/CD:** Building automated deployment pipelines (GitHub Actions) shipping to **Vercel, Cloudflare Pages, and Render**.
+- 📈 **Performance & SEO:** Optimizing **Core Web Vitals**, server-side rendering (SSR/SSG), structured metadata, and Lighthouse scores.
 - 🤝 **Open To:** Full-time frontend engineering opportunities, contract freelance projects, and high-impact open-source contributions.
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Cloud Tooling
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,postgres,mongodb,docker,firebase,git,github,postman,vscode&theme=dark#gh-dark-mode-only" alt="My Tech Stack: React, Next.js, TypeScript, JavaScript, Tailwind, Redux, Node.js, Express, PostgreSQL, MongoDB, Docker, Firebase, Git, GitHub, Postman, VS Code" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,postgres,mongodb,docker,firebase,git,github,postman,vscode&theme=light#gh-light-mode-only" alt="My Tech Stack: React, Next.js, TypeScript, JavaScript, Tailwind, Redux, Node.js, Express, PostgreSQL, MongoDB, Docker, Firebase, Git, GitHub, Postman, VS Code" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,postgres,mongodb,docker,firebase,vercel,cloudflare,githubactions,git,github,postman,vscode&theme=dark#gh-dark-mode-only" alt="My Tech Stack: React, Next.js, TypeScript, JavaScript, Tailwind, Redux, Node.js, Express, PostgreSQL, MongoDB, Docker, Firebase, Vercel, Cloudflare, GitHub Actions, Git, GitHub, Postman, VS Code" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,postgres,mongodb,docker,firebase,vercel,cloudflare,githubactions,git,github,postman,vscode&theme=light#gh-light-mode-only" alt="My Tech Stack: React, Next.js, TypeScript, JavaScript, Tailwind, Redux, Node.js, Express, PostgreSQL, MongoDB, Docker, Firebase, Vercel, Cloudflare, GitHub Actions, Git, GitHub, Postman, VS Code" />
   </a>
+</p>
+
+<p align="center">
+  <code>Next.js (App Router / SSR)</code> • <code>React.js</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Technical SEO</code> • <code>CI/CD Pipelines</code> • <code>Vercel</code> • <code>Cloudflare Pages</code> • <code>Render</code> • <code>Docker</code>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Key Impact & Architecture | Stack | Links |
+| Project | Key Impact & Architecture | Stack & Deployment | Links |
 | :--- | :--- | :--- | :---: |
-| **API Inspector** | Real-time developer utility for inspecting REST endpoints, validating headers, and payload testing. Containerized with Docker. | `Next.js` `TypeScript` `Tailwind` `PostgreSQL` `Docker` | [Live Demo](https://api.arun-m.in/) • [Code](https://github.com/ARUN-M-BE) |
-| **Music Streaming App** | Full-featured audio streaming platform with playlist curation, queue management, and audio playback controls. | `Next.js` `TypeScript` `Tailwind` `PostgreSQL` `Docker` | [Live Demo](https://music.arun-m.in/) • [Code](https://github.com/ARUN-M-BE) |
-| **Smart To-Do & Task Manager** | Productivity application with state persistence, category filtering, priority tags, and clean UX. | `React` `Redux` `Local Storage` | [Live Demo](https://to-do.arun-m.in/) • [Code](https://github.com/ARUN-M-BE) |
-| **Job Application Portal** | Role-based candidate dashboard featuring auth guards, multi-step job applications, and reactive filtering. | `React` `Redux` `Tailwind` | [Live Demo](https://ef107a46.job-apply.pages.dev/login) • [Code](https://github.com/ARUN-M-BE) |
+| **API Inspector** | Real-time developer utility for inspecting REST endpoints, validating headers, and payload testing. Containerized and automated with CI/CD. | `Next.js` `TypeScript` `Docker` `Render / Vercel` | [Live Demo](https://api.arun-m.in/) • [Code](https://github.com/ARUN-M-BE) |
+| **Music Streaming App** | Full-featured audio streaming platform with playlist curation, queue management, and audio playback controls. SEO-optimized metadata. | `Next.js` `TypeScript` `PostgreSQL` `Vercel` | [Live Demo](https://music.arun-m.in/) • [Code](https://github.com/ARUN-M-BE) |
+| **Smart To-Do & Task Manager** | Productivity application with state persistence, category filtering, priority tags, and clean UX. Deployed on edge infrastructure. | `React` `Redux` `Cloudflare Pages` | [Live Demo](https://to-do.arun-m.in/) • [Code](https://github.com/ARUN-M-BE) |
+| **Job Application Portal** | Role-based candidate dashboard featuring auth guards, multi-step job applications, and reactive filtering. | `React` `Redux` `Tailwind` `Cloudflare Pages` | [Live Demo](https://ef107a46.job-apply.pages.dev/login) • [Code](https://github.com/ARUN-M-BE) |
 
 ---
 
