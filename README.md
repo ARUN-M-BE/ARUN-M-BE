@@ -1,70 +1,91 @@
-##  <h1 align="center">Hi, I'm ARUN M</h1>
-<h3 align="center">A React Js / Front-End Developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ARUN-M-BE&label=Profile%20views&color=0e75b6&style=flat" alt="ARUN-M-BE" /> </p>
+# Hi, I'm Arun M 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ARUN-M-BE"&theme=onedark alt="ARUN-M-BE" /></a> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Front+End+Developer+%E2%80%A2+React.js+%2B+Next.js;Building+Scalable%2C+Accessible+Web+Interfaces;Crafting+Production-Ready+TypeScript+Apps">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=620&lines=Front+End+Developer+%E2%80%A2+React.js+%2B+Next.js;Building+Scalable%2C+Accessible+Web+Interfaces;Crafting+Production-Ready+TypeScript+Apps">
+  <img alt="Arun M - Front End Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=620&lines=Front+End+Developer+%E2%80%A2+React.js+%2B+Next.js">
+</picture>
 
-<!-- <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679242e4db593e4a174ef7bd?variant=dark" alt="roadmap.sh"/></a> -->
+<p align="center">
+  <strong>Front End Developer with 3+ years of experience</strong>, currently engineering performant web applications at <strong>SYNKCODE (Dubai)</strong>.<br/>
+  Specialized in <strong>React.js, Next.js (SSR/App Router), TypeScript</strong>, reusable design systems, and seamless REST API integrations.<br/>
+  Focused on web performance, scalable state architecture, and intuitive UI/UX.
+</p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-arun--m.in-0284c7?style=flat-square&logo=googlechrome&logoColor=white)](http://arun-m.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arun--be--m-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arun-be-m/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-arun--m-f58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21054550/arun-m)
+[![Dev.to](https://img.shields.io/badge/Dev.to-arun__m-0a0a0a?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/arun_m_08fa1510f551c4982a)
+[![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-arunm-000000?style=flat-square&logo=roadmapdotsh&logoColor=white)](https://roadmap.sh/u/arunm)
+[![Instagram](https://img.shields.io/badge/Instagram-arun__ai__-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arun_ai_)
+[![Email](https://img.shields.io/badge/Email-contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arun.be.m@gmail.com)
 
-## 🚀 About Me
-I'm a React.js Developer with 2.4 years of hands-on experience in building responsive, scalable, and 
-user-friendly web applications. Proficient in developing reusable UI components, implementing 
-state management using React hooks and Redux, and integrating RESTful APIs for seamless data 
-flow. Skilled in modern JavaScript (ES6+), React Router, and component-based architecture. 
-Strong understanding of UI/UX principles, performance optimization, and cross-browser 
-compatibility
+</div>
 
+---
 
+### 🔭 Current Focus & Growth
 
-## Authors
+- 💼 **Current Role:** Delivering client-facing portals and dashboards at **SYNKCODE, Dubai**.
+- 🛠️ **Deepening:** Advanced Server Components in Next.js 14/15, micro-frontends, and automated UI testing (Jest / Playwright).
+- 🤝 **Open To:** Full-time frontend engineering opportunities, contract freelance projects, and high-impact open-source contributions.
 
-- [@GITHUB](https://github.com/ARUN-M-BE)
-- [@LINKED IN](https://www.linkedin.com/in/arun-be-m/)
-- [@PROTFOLIO](https://arunm.pages.dev/)
-- [@DEV](https://dev.to/arun_m_08fa1510f551c4982a)
-- [@STOCKOVERFLOW](https://stackoverflow.com/users/21054550/arun-m)
-- [@INSTAGRAM](https://instagram.com/arun_ai_)
-- [@RODAMAP](https://roadmap.sh/u/arunm)
+---
 
+### 💻 Tech Stack
 
-## Features
+<div align="center">
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,postgres,mongodb,docker,firebase,git,github,postman,vscode&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,postgres,mongodb,docker,firebase,git,github,postman,vscode&theme=light">
+  <img alt="My Tech Stack: React, Next.js, TypeScript, JavaScript, Tailwind, Redux, Node.js, Express, PostgreSQL, MongoDB, Docker, Firebase, Git, GitHub, Postman, VS Code" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,postgres,mongodb,docker,firebase,git,github,postman,vscode&theme=dark">
+</picture>
 
+</div>
 
-## Tech Stack
+---
 
-**Client:** React, Redux, TailwindCSS, Bootstrap 5, 
+### 🚀 Featured Projects
 
-**Server:** Node, Express
+| Project | Key Impact & Architecture | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **API Inspector** | Real-time developer utility for inspecting REST endpoints, validating headers, and payload testing. Containerized with Docker. | `Next.js` `TypeScript` `Tailwind` `PostgreSQL` `Docker` | [Live Demo](https://api.arun-m.in/) • [Code](https://github.com/ARUN-M-BE) |
+| **Music Streaming App** | Full-featured audio streaming platform with playlist curation, queue management, and audio playback controls. | `Next.js` `TypeScript` `Tailwind` `PostgreSQL` `Docker` | [Live Demo](https://music.arun-m.in/) • [Code](https://github.com/ARUN-M-BE) |
+| **Smart To-Do & Task Manager** | Productivity application with state persistence, category filtering, priority tags, and clean UX. | `React` `Redux` `Local Storage` | [Live Demo](https://to-do.arun-m.in/) • [Code](https://github.com/ARUN-M-BE) |
+| **Job Application Portal** | Role-based candidate dashboard featuring auth guards, multi-step job applications, and reactive filtering. | `React` `Redux` `Tailwind` | [Live Demo](https://ef107a46.job-apply.pages.dev/login) • [Code](https://github.com/ARUN-M-BE) |
 
-**Database:** Mongo DB, Mysql, Firebase Authentication 
+---
 
-**Tools:** VS Code, Postman, Chrome Dev Tools 
+### 📊 GitHub Activity & Insights
 
-**Version Control:** Git, Github
+<div align="center">
 
-**Additional :** Django, Lunix, API, 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ARUN-M-BE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ARUN-M-BE&show_icons=true&theme=default&hide_border=true&title_color=0284C7&icon_color=0284C7">
+  <img alt="Arun M's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ARUN-M-BE&show_icons=true&theme=default&hide_border=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-M-BE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-M-BE&layout=compact&theme=default&hide_border=true&title_color=0284C7">
+  <img alt="Arun M's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-M-BE&layout=compact&theme=default&hide_border=true">
+</picture>
 
-## Demos
+</div>
 
-- [@PROTOFOLIO](https://arun-m.pages.dev/)
-- [@TODO](https://to-do-3fq.pages.dev/)
-- [@API-INSPECTOR](https://api-inspector.pages.dev/)
-- [@API-PRO](https://api-pro.pages.dev/)
-- [@DLB](https://e-z.pages.dev/)
-- [@JOB-MODULE](https://ef107a46.job-apply.pages.dev/login)
-- [@N8N](https://n8n-xd79.onrender.com/)
-- [@AI-PROMPT](https://arun-m-be.github.io/AI-PROMPT/)
-- [@G-MUSIC](https://good-music.vercel.app/)
-- [@INNOVATECH](https://innova-tech.pages.dev/)
-- [@TMDB](https://tmdb-react.pages.dev/)
-- [@BASIC HTML](https://arun-m-be.github.io/Basic-HTML-Website/)
-- [@LOGIN REACT](https://login-react-a.pages.dev/)
-- [@QA TEST](https://arun-m-be.github.io/html/)
-- [@CHART](https://data-chart.pages.dev/)
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="http://arun-m.in/"><img src="https://img.shields.io/badge/Website-arun--m.in-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/arun-be-m/"><img src="https://img.shields.io/badge/LinkedIn-Arun_M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/21054550/arun-m"><img src="https://img.shields.io/badge/Stack_Overflow-Arun_M-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://dev.to/arun_m_08fa1510f551c4982a"><img src="https://img.shields.io/badge/Dev.to-arun__m-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://roadmap.sh/u/arunm"><img src="https://img.shields.io/badge/Roadmap.sh-arunm-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="Roadmap.sh" /></a>
+  <a href="https://instagram.com/arun_ai_"><img src="https://img.shields.io/badge/Instagram-arun__ai__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:arunm102301@gmail.com"><img src="https://img.shields.io/badge/Email-arunm102301@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
