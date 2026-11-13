@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARUN-M-BE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8#gh-dark-mode-only" alt="Arun M's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARUN-M-BE&show_icons=true&theme=default&hide_border=true&title_color=0284C7&icon_color=0284C7#gh-light-mode-only" alt="Arun M's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ARUN-M-BE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8#gh-dark-mode-only" alt="Arun M's Top Languages" />
 </p>
 
 ---
