@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Front+End+Developer+%E2%80%A2+React.js+%2B+Next.js;Production-Ready+TypeScript+%2B+Modern+UI%2FUX;CI%2FCD+Pipelines%2C+Technical+SEO+%26+Cloud+Deployments#gh-dark-mode-only" alt="Arun M - Front End Developer" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=620&lines=Front+End+Developer+%E2%80%A2+React.js+%2B+Next.js;Production-Ready+TypeScript+%2B+Modern+UI%2FUX;CI%2FCD+Pipelines%2C+Technical+SEO+%26+Cloud+Deployments#gh-light-mode-only" alt="Arun M - Front End Developer" />
 </p>
 
 <p align="center">
@@ -19,7 +18,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-arun__m-0a0a0a?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/arun_m_08fa1510f551c4982a)
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-arunm-000000?style=flat-square&logo=roadmapdotsh&logoColor=white)](https://roadmap.sh/u/arunm)
 [![Instagram](https://img.shields.io/badge/Instagram-arun__ai__-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arun_ai_)
-[![Email](https://img.shields.io/badge/Email-contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arun.be.m@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arunm102301@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Dubai%2C%20UAE-10b981?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -40,7 +39,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,postgres,mongodb,docker,firebase,vercel,cloudflare,githubactions,git,github,postman,vscode&theme=dark#gh-dark-mode-only" alt="My Tech Stack: React, Next.js, TypeScript, JavaScript, Tailwind, Redux, Node.js, Express, PostgreSQL, MongoDB, Docker, Firebase, Vercel, Cloudflare, GitHub Actions, Git, GitHub, Postman, VS Code" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,nodejs,express,postgres,mongodb,docker,firebase,vercel,cloudflare,githubactions,git,github,postman,vscode&theme=light#gh-light-mode-only" alt="My Tech Stack: React, Next.js, TypeScript, JavaScript, Tailwind, Redux, Node.js, Express, PostgreSQL, MongoDB, Docker, Firebase, Vercel, Cloudflare, GitHub Actions, Git, GitHub, Postman, VS Code" />
   </a>
 </p>
 
@@ -66,8 +64,6 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARUN-M-BE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8#gh-dark-mode-only" alt="Arun M's GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ARUN-M-BE&show_icons=true&theme=default&hide_border=true&title_color=0284C7&icon_color=0284C7#gh-light-mode-only" alt="Arun M's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ARUN-M-BE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8#gh-dark-mode-only" alt="Arun M's Top Languages" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ARUN-M-BE&layout=compact&theme=default&hide_border=true&title_color=0284C7#gh-light-mode-only" alt="Arun M's Top Languages" />
 </p>
 
 ---
@@ -81,5 +77,5 @@
   <a href="https://dev.to/arun_m_08fa1510f551c4982a"><img src="https://img.shields.io/badge/Dev.to-arun__m-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="https://roadmap.sh/u/arunm"><img src="https://img.shields.io/badge/Roadmap.sh-arunm-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" alt="Roadmap.sh" /></a>
   <a href="https://instagram.com/arun_ai_"><img src="https://img.shields.io/badge/Instagram-arun__ai__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:arun.be.m@gmail.com"><img src="https://img.shields.io/badge/Email-arun.be.m@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:arunm102301@gmail.com"><img src="https://img.shields.io/badge/Email-arunm102301@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
