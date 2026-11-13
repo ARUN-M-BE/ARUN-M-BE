@@ -19,7 +19,6 @@
 [![Roadmap.sh](https://img.shields.io/badge/Roadmap.sh-arunm-000000?style=flat-square&logo=roadmapdotsh&logoColor=white)](https://roadmap.sh/u/arunm)
 [![Instagram](https://img.shields.io/badge/Instagram-arun__ai__-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arun_ai_)
 [![Email](https://img.shields.io/badge/Email-contact-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arunm102301@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Dubai%2C%20UAE-10b981?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
